@@ -1,5 +1,6 @@
 # Stage1
-Todos caemos al suelo en algún momento. Es la forma en la que te levantas el verdadero desafío.
+
+_Todos caemos al suelo en algún momento. Es la forma en la que te levantas el verdadero desafío._
 
 ------
 
